@@ -221,7 +221,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
     }
-
+    /*Clear Signature Drawing to White Screen*/
     public void clearScreen(){
         dv.mCanvas.drawColor(Color.WHITE);
     }
